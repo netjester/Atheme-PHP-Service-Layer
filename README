@@ -1,0 +1,2 @@
+Flexible generic PHP service layer for Atheme's XML RPC API, such that it will make it easy for
+future projects to leverage the functionality there.
